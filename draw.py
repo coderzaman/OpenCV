@@ -1,5 +1,5 @@
 # Drawing Shape and Putting Text
-import cv2 as cv
+import cv2 as cv 
 import numpy as np
 
 # There two ways to draw on images. Drawing on standalone images is like image of a cat or we create dummy images
